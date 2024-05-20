@@ -21,6 +21,8 @@ O Mutmut conta com uma comunidade ativa que oferece suporte através de document
 
 ## Níveis de Testes Cobertos pela Ferramenta
 O Mutmut é mais eficaz nos testes de unidade e integração. Em testes de unidade, ele verifica a robustez dos testes individuais para cada função ou classe, enquanto em testes de integração, ele garante que diferentes módulos do software interajam corretamente. Embora seja possível usar o Mutmut em outros níveis de teste, como testes de sistema ou aceitação, sua principal força reside nos níveis de unidade e integração.
+- (Testes de Sistema: Testes de sistema lidam com o software completo em um ambiente complexo, com muitas variáveis e interações. Introduzir mutações nesse nível pode ser desafiador e levar a resultados imprevisíveis, dificultando a análise das falhas.
+Testes de Aceitação: Testes de aceitação focam na validação dos requisitos do usuário, geralmente envolvendo interação humana. A aplicação de mutações automáticas nesse contexto é menos direta e pode não ser tão eficaz.)
 
 ## Prós e Contras da Ferramenta
 ### Vantagens
